@@ -45,7 +45,7 @@ $formatNilai = static fn(float $nilai): string => rtrim(rtrim(number_format($nil
 <body>
 <main class="page-shell">
     <header class="topbar">
-        <a class="brand" href="#" aria-label="Fathih Fitrah Ramadhan beranda"><span class="brand-mark">N</span><span class="brand-name">Fathih Fitrah Ramadhan</span></a>
+        <a class="brand" href="#" aria-label="Fathih Fitrah Ramadhan beranda"><span class="brand-mark">N</span><span class="brand-identity"><span class="brand-name">Fathih Fitrah Ramadhan</span><span class="student-id">NIM 3337250024</span></span></a>
         <span class="semester-pill"><span class="live-dot"></span> SEMESTER BERJALAN</span>
     </header>
 
@@ -91,6 +91,7 @@ $formatNilai = static fn(float $nilai): string => rtrim(rtrim(number_format($nil
 </main>
 </body>
 </html>
+
 
 
 
